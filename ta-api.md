@@ -20,5 +20,6 @@ curl "https://api.tripadvisor.com/api/partner/2.0/search/coffee?key=KEY&geo=1550
 ### Useful TripAdvisor region IDs (geos)
 * Ottawa 155004
 * Toronto 155019
+* Montreal 155032
 * Ontario 154979
 * Canada 153339
