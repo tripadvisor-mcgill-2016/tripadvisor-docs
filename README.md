@@ -1,3 +1,5 @@
+# This page: [https://bit.ly/tripadvisor-mchacks](https://bit.ly/tripadvisor-mchacks)
+
 # tripadvisor-docs
 TripAdvisor docs / api stuff for McGill Hackathon (MCHacks)
 
