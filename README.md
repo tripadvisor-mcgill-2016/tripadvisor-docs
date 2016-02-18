@@ -7,3 +7,4 @@ TripAdvisor docs / api stuff for McGill Hackathon (MCHacks)
 How to reach us during the hackathon.
 
 * Jean-Philippe Daigle ([@jpdaigle](https://twitter.com/jpdaigle))
+* David Underwood ([@davefp](https://twitter.com/davefp))
