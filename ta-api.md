@@ -8,7 +8,7 @@ a loop. *Once the daily call limit on a key is reached, we cannot reset it.*
 
 ### Partner API docs
 
-TA partner API docs: https://developer-tripadvisor.com/partner/json-api/documentation
+TA partner API docs: https://developer-tripadvisor.com/content-api/documentation/
 
 Main auto-gen docs: http://api.tripadvisor.com/api/partner/2.0/doc?key=KEY
 
